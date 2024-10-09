@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+	int numStudents = 45;
+	cout << "===============================================" << endl;
+	cout << "Welcome to CSCI 1101 Intro to Computer Sceince!" << endl;
+	cout << "===============================================" << endl;
+	cout << "There are " << numStudents << " in the class" << endl;
+	cout << "===============================================" << endl;
+	return 0;
+}
